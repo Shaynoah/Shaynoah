@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently in Maseno University<br>Currently taking Computer Science
+Im a First Class Graduate Computer Scientist at Maseno University
 
 
 ## 🌐 Socials:
