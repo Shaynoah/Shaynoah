@@ -1,7 +1,7 @@
 # 💫 About Me:
 Im a First Class Graduate Computer Scientist at Maseno University......
 
-I Writes code. Breaks code. Fixes code. Repeats until it works (or looks like it works).😁
+I Write code. Break code. Fix code. Repeats until it works (or looks like it works).😁
 
 
 ## 🌐 Socials:
